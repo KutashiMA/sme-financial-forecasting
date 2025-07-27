@@ -83,4 +83,4 @@ The project follows a structured data science workflow documented within the not
 ## Author
 
 *   **Muhammed Kutashi**
-    *   GitHub: `[@KutashiMA](https://github.com/KutashiMA)`
+    *   GitHub: [@KutashiMA](https://github.com/KutashiMA)
